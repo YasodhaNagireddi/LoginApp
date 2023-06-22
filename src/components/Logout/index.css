@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.logout-btn {
+  height: 40px;
+  padding: 8px 28px;
+  border: 0;
+  font-size: 14px;
+  font-weight: 600;
+  color: #303150;
+  border-radius: 8px;
+}

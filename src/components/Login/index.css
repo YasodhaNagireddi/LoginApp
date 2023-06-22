@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.login-btn {
+  height: 30px;
+  padding: 8px 28px;
+  border: 0;
+  font-size: 14px;
+  font-weight: 600;
+  color: #303150;
+}
